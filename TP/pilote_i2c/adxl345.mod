@@ -1,0 +1,2 @@
+/home/bruno/Backup_PC/SETI/B4/TP/pilote_i2c/adxl345.o
+

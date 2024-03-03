@@ -1,0 +1,1 @@
+cmd_/home/bruno/Backup_PC/SETI/B4/TP/pilote_i2c/Module.symvers := sed 's/\.ko$$/\.o/' /home/bruno/Backup_PC/SETI/B4/TP/pilote_i2c/modules.order | scripts/mod/modpost    -o /home/bruno/Backup_PC/SETI/B4/TP/pilote_i2c/Module.symvers -e -i Module.symvers   -T -

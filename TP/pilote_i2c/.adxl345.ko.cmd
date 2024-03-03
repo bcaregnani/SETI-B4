@@ -1,0 +1,1 @@
+cmd_/home/bruno/Backup_PC/SETI/B4/TP/pilote_i2c/adxl345.ko := arm-linux-gnueabihf-ld -r -EL --build-id=sha1  -T scripts/module.lds -o /home/bruno/Backup_PC/SETI/B4/TP/pilote_i2c/adxl345.ko /home/bruno/Backup_PC/SETI/B4/TP/pilote_i2c/adxl345.o /home/bruno/Backup_PC/SETI/B4/TP/pilote_i2c/adxl345.mod.o;  true
